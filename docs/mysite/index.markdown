@@ -3,4 +3,3 @@
 layout: home
 permalink: /
 ---
-d
