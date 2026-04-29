@@ -1,0 +1,120 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+	color: #202124;
+	background: #ffffff;
+	padding-top: 76px;
+}
+
+.wrapper {
+	width: 100%;
+	max-width: none;
+}
+
+.content-wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 2rem 1rem 3rem;
+}
+
+.site-top {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	z-index: 1000;
+	float: none;
+	border-bottom: 1px solid #ececec;
+	background: #ffffff;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+}
+
+.site-top-inner {
+	max-width: none;
+	width: 100%;
+	margin: 0;
+	padding: 1rem 2rem;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+
+.site-title {
+	margin: 0;
+	font-size: 1.4rem;
+}
+
+.site-title a {
+	color: #202124;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+.top-nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: static;
+	right: auto;
+	top: auto;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+
+.top-nav {
+	margin-left: auto;
+}
+
+.top-nav li {
+	margin: 0;
+	padding: 0;
+}
+
+.top-nav a {
+	text-decoration: none;
+	color: #202124;
+	font-weight: 600;
+	padding: 0.25rem 0;
+}
+
+.site-top a {
+	color: #202124;
+}
+
+.top-nav a:hover {
+	text-decoration: underline;
+}
+
+.home-hero {
+	margin-bottom: 2rem;
+}
+
+.home-hero h1 {
+	margin-bottom: 0.4rem;
+}
+
+
+.news-list {
+	margin: 0;
+	padding-left: 1.2rem;
+}
+
+.news-list li {
+	margin-bottom: 0.5rem;
+}
+
+.site-footer {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 1rem 2rem;
+	color: #777;
+	font-size: 0.95rem;
+}
