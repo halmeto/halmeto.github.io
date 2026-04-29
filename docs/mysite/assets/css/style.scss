@@ -118,3 +118,25 @@ body {
 	color: #777;
 	font-size: 0.95rem;
 }
+
+/* Improve markdown list indentation and appearance */
+.content-wrapper ul,
+.content-wrapper ol {
+	margin: 0 0 0.5rem 0;
+	padding-left: 1.6rem;
+	list-style-position: outside;
+}
+
+.content-wrapper ul ul,
+.content-wrapper ol ol,
+.content-wrapper ul ol,
+.content-wrapper ol ul {
+	padding-left: 1.25rem; /* extra indent for nested lists */
+}
+
+/* Ensure list items have breathing room */
+
+/* Small typography niceties */
+.content-wrapper p {
+	margin-bottom: 1rem;
+}

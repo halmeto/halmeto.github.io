@@ -29,8 +29,7 @@ logo: /assets/logo.jpg
 #github_username:  halmeto
 
 # Build settings
-#remote_theme: pages-themes/minimal@v0.2.0
-theme: jekyll-theme-minimal
+# Using custom layouts instead of a theme
 plugins:
   - jekyll-feed
 
