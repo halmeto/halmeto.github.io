@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap; margin: 1rem 0;">
