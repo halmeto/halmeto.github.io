@@ -29,7 +29,7 @@ permalink: /
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=olrV0jcAAAAJ&hl=en)
-- [CV](#)
+- [Academic CV]({{ '/assets/cv.pdf' | relative_url }})
 - [LinkedIn](https://www.linkedin.com/in/topi-halme-818b22336/)
 
 ## Contact
