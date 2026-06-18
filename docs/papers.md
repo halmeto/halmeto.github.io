@@ -7,13 +7,14 @@ permalink: /papers/
 
 ## Preprints
 
-Multi-stream Quickest Change Detection: Foundations and Recent Advances (2026), submitted to _Entropy_ [(arXiv)](https://arxiv.org/abs/2604.18008)  
-**T.H.** and V. Koivunen
 
 Dean Oliver's Four Factors Revisited (2026+), submitted to _Journal of Quantitative Analysis in Sports_ [(arXiv)](https://arxiv.org/abs/2305.13032)  
 [J. Poropudas](https://www.hamahakkimies.com/) and **T.H.**
 
 ## Journals
+
+Multi-stream Quickest Change Detection: Foundations and Recent Advances (2026), _Entropy_ [(arXiv)](https://arxiv.org/abs/2604.18008) [(Journal)](https://www.mdpi.com/1099-4300/28/5/566)
+**T.H.** and V. Koivunen
 
 Quickest change detection for multiple data streams using the James-Stein estimator (2025), _IEEE TIT_ [(arXiv)](https://arxiv.org/abs/2404.05486) [(IEEE)](https://ieeexplore.ieee.org/abstract/document/11079727)  
 **T.H.**, [V. V. Veeravalli](https://vvv.ece.illinois.edu/) and V. Koivunen
