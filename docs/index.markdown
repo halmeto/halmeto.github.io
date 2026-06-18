@@ -22,7 +22,7 @@ permalink: /
 
 ## Updates
 - **Jun. 2026:** [New preprint](https://arxiv.org/abs/2606.05072) on adaptive change detection using predictive distributions available on arXiv
-- **Jun. 2026:** Really enjoyed attending [IWSM 2026](https://www.american.edu/cas/iwsm2026/) in Washington DC. Gave a talk on recent work on change detection with predictive densities [(slides)]({{"/assets/slides/IWSM_2026.pdf"}})
+- **Jun. 2026:** Really enjoyed attending [IWSM 2026](https://www.american.edu/cas/iwsm2026/) in Washington DC. Gave a talk [(photo)]({{"/assets/iwsm_2026_talk.jpg"}}) on recent work on change detection with predictive densities [(slides)]({{"/assets/slides/IWSM_2026.pdf"}})
 - **May. 2026:** [Review paper](https://arxiv.org/abs/2604.18008) on recent (and not so recent) developments in multi-stream sequential change-point detection accepted to _Entropy_!
 - **Dec. 2025:** Received the Aalto ELEC thesis award!
 - **Oct. 2025:** Passed the PhD defence! Thank you to prof Ubli Mitra and prof Pierluigi Salvo Rossi for serving as the opponents. [(Photo)]({{"/assets/defence.jpg" | relative_url}})
