@@ -8,7 +8,10 @@ permalink: /papers/
 ## Preprints
 
 
-Dean Oliver's Four Factors Revisited (2026+), submitted to _Journal of Quantitative Analysis in Sports_ [(arXiv)](https://arxiv.org/abs/2305.13032)  
+Adaptive sequential change detection using mixtures of predictive distributions (2026), submitted [(arXiv)](https://arxiv.org/abs/2606.05072)   
+**T.H.**, H.V. Poor and V. Koivunen
+
+Dean Oliver's Four Factors Revisited (2026), in review at _Journal of Quantitative Analysis in Sports_ [(arXiv)](https://arxiv.org/abs/2305.13032)  
 [J. Poropudas](https://www.hamahakkimies.com/) and **T.H.**
 
 ## Journals
@@ -16,13 +19,13 @@ Dean Oliver's Four Factors Revisited (2026+), submitted to _Journal of Quantitat
 Multi-stream Quickest Change Detection: Foundations and Recent Advances (2026), _Entropy_ [(arXiv)](https://arxiv.org/abs/2604.18008) [(Journal)](https://www.mdpi.com/1099-4300/28/5/566)
 **T.H.** and V. Koivunen
 
-Quickest change detection for multiple data streams using the James-Stein estimator (2025), _IEEE TIT_ [(arXiv)](https://arxiv.org/abs/2404.05486) [(IEEE)](https://ieeexplore.ieee.org/abstract/document/11079727)  
+Quickest change detection for multiple data streams using the James-Stein estimator (2025), _IEEE Transactions on Information Theory_ [(arXiv)](https://arxiv.org/abs/2404.05486) [(IEEE)](https://ieeexplore.ieee.org/abstract/document/11079727)  
 **T.H.**, [V. V. Veeravalli](https://vvv.ece.illinois.edu/) and V. Koivunen
 
-Bayesian quickest detection of propagating spatial events (2022), _IEEE TSP_ [(IEEE)](https://ieeexplore.ieee.org/abstract/document/9992248)  
+Bayesian quickest detection of propagating spatial events (2022), _IEEE Transactions on Signal Processing_ [(IEEE)](https://ieeexplore.ieee.org/abstract/document/9992248)  
 **T.H.**, E. Nitzan and V. Koivunen
 
-Bayesian methods for multiple change-point detection with reduced communication (2020), _IEEE TSP_ [(arXiv)](https://arxiv.org/pdf/2003.11062), [(IEEE)](https://ieeexplore.ieee.org/abstract/document/9165943)    
+Bayesian methods for multiple change-point detection with reduced communication (2020), _IEEE Transactions on Signal Processing_ [(arXiv)](https://arxiv.org/pdf/2003.11062), [(IEEE)](https://ieeexplore.ieee.org/abstract/document/9165943)    
 E. Nitzan, **T.H.** and V. Koivunen
 
 ## Selected conference papers
