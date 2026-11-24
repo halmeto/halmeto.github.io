@@ -11,7 +11,7 @@ permalink: /papers/
 Adaptive sequential change detection using mixtures of predictive distributions (2026), submitted [(arXiv)](https://arxiv.org/abs/2606.05072)   
 **T.H.**, H.V. Poor and V. Koivunen
 
-Dean Oliver's Four Factors Revisited (2026), in review at _Journal of Quantitative Analysis in Sports_ [(arXiv)](https://arxiv.org/abs/2305.13032)  
+Decomposing Basketball Team Efficiency Using the Four Factors and Shapley Values (2026), accepted to _Journal of Quantitative Analysis in Sports_ [(arXiv)](https://arxiv.org/abs/2305.13032)  
 [J. Poropudas](https://www.hamahakkimies.com/) and **T.H.**
 
 ## Journals
